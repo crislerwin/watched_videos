@@ -1,7 +1,44 @@
 ---
-created: 2024-02-25T20:28
+tags:
+  - type/youtube
+aliases: 
+title: Artificial Intelligence | 60 Minutes Full Episodes
+channel_name: 60 Minutes
+subscribers: 2840000
+length: 53:30
+publish_date: 2023-12-30
+chapters:
+  - 0:00 Introduction
+  - 0:11 The Oracle of AI
+  - 12:56 The Revolution (Part 1)
+  - 27:33 The Revolution (Part 2)
+  - 40:00 Who is minding the chatbots?
+hashtags:
+  - "#60 minutes"
+  - "#cbs news"
+  - "#artificial intelligence"
+  - "#ai"
+  - "#google"
+  - "#chatgpt"
+  - "#chatbot"
+  - "#openai"
+  - "#microsoft"
+  - "#meta"
+  - "#facebook"
+thumbnail: "![[1711749884560.jpg]]"
+description: ""
+note_created: 2024-03-29, 19:04
+youtube_url: https://youtu.be/aZ5EsdnpLMI
+template-type: YouTube
+template-version: "1.0"
+created: 2024-03-29T19:04
 updated: 2024-03-29T19:04
 ---
+
+![[1711749884560.jpg]]
+
+<iframe title="Artificial Intelligence | 60 Minutes Full Episodes" src="https://www.youtube.com/embed/aZ5EsdnpLMI?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
+
 SUMMARY:
 Kai-Fu Lee, a former tech executive, discusses the rapid advancements in artificial intelligence (AI) and its potential impact on society, jobs, and the future. He highlights China's lead in AI development and the challenges of regulating this powerful technology.
 

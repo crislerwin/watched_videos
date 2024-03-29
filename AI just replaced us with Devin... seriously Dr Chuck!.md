@@ -67,7 +67,7 @@ youtube_url: https://youtu.be/iTjYuHDNooM
 template-type: YouTube
 template-version: "1.0"
 created: 2024-03-27T20:07
-updated: 2024-03-27T20:08
+updated: 2024-03-29T19:05
 ---
 
 ![[1711580878032.jpg]]

@@ -37,43 +37,57 @@ youtube_url: https://youtu.be/zVBHOKJgouI?si=xZ2hq_M8OgHSe-58
 template-type: YouTube
 template-version: "1.0"
 created: 2024-02-10T20:54
-updated: 2024-02-10T20:57
+updated: 2024-03-29T19:08
 ---
 
 ![[1707609277791.jpg]]
 
 <iframe title="How to Start Your First Business in a Weekend" src="https://www.youtube.com/embed/zVBHOKJgouI?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
+# SUMMARY
 
-# 🌍 What It's About
-- Is a book club review of a book about how to start a business in a weekend
-- Show the key insights about the book
-- 
+In this episode, the speaker discusses the book "Million Dollar Weekend" by Noah Haan, which provides a step-by-step guide on how to start a business in a weekend. The key message is to start before you feel ready, focus on the customer first, and validate your idea by getting pre-orders before building anything.
 
-# 🔍 How I Discovered IT
-- Navigating through youtube to find interesting videos then, I showed this one
+# IDEAS:
 
-# 🧠 Thoughts
-- 
+- Begin before you're ready - the timing is never perfect
+- Overthinking prevents action, successful entrepreneurs act first
+- Focus on the customer, not the idea - find problems to solve
+- Ask people to pay before building, validate the idea
+- Look to your own problems for business ideas
+- Pre-sell your product/service to get early validation
 
-## What I Liked About IT
-- 
+# INSIGHTS:
 
-## What I Didn't Like About it
-- 
+- Deciding to start is more important than having the perfect idea
+- Talking to potential customers is crucial to validate a business idea
+- Getting the first few paying customers is the hardest part
+- Focusing on solving customer problems is key to building a successful business
 
-# ✍️ The Video in 3 Sentences
+# QUOTES:
 
-# ✍️ My Top 3 Quotes
+- "Most people overthink, First Act later. Every successful entrepreneur ACT first, figure it out later."
+- "Any analysis ahead of action is purely speculation. You really do not understand something until you've done it."
+- "The first dollar is always the hardest. The first three customers are always the hardest."
 
-# 🎨 Impressions
+# HABITS:
 
-# ☘️ How the Video Changed Me
+- Regularly ask yourself: What irritated me this morning? What's been on my to-do list for over a week? What do I fail to do well? What did I want to buy but couldn't find?
+- Speak to potential customers before building anything
+- Aim to get the first 3 paying customers as soon as possible
 
-# 📒 Summary + Notes
+# FACTS:
 
-# 🥰 Who Would Like it ?
-- 
+- The majority of aspiring entrepreneurs struggle with the emotional side of starting a business, not the technical aspects
+- Most people waste years chasing business ideas without validating them with potential customers
 
-# 📚Related Videos
--  
+# REFERENCES:
+
+- "Million Dollar Weekend" by Noah Haan
+- Interview with Noah Haan on the Deep Dive podcast
+
+# RECOMMENDATIONS:
+
+- Read "Million Dollar Weekend" to learn a step-by-step approach to starting a business
+- Speak to potential customers before building anything to validate your business idea
+- Focus on getting the first 3 paying customers as quickly as possible

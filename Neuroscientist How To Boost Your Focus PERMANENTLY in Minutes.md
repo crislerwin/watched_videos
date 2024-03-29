@@ -18,45 +18,57 @@ youtube_url: https://www.youtube.com/watch?v=fH7N9YRxMYc
 template-type: YouTube
 template-version: "1.0"
 created: 2024-02-05T21:40
-updated: 2024-02-04T05:50
+updated: 2024-03-29T19:11
 ---
 
 ![[1707035996899.jpg]]
 
 <iframe title="Neuroscientist: How To Boost Your Focus PERMANENTLY in Minutes" src="https://www.youtube.com/embed/fH7N9YRxMYc?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
 
+# SUMMARY
 
-# 🌍 What It's About
+The speaker discusses a simple 17-minute practice of focusing on one's breathing and internal state, which can significantly improve attention and focus, even in those with ADHD or age-related cognitive decline, after just a single session.
 
-The video discusses a simple practice that takes 17 minutes and can significantly enhance attention and focus. It suggests that individuals, regardless of age or ADHD status, can benefit from this practice, which involves consciously dilating one's gaze into panoramic vision and focusing on internal sensations, termed interoception. The concept of attentional blinks, where over-focusing on certain elements leads to missing others, is highlighted, especially in individuals with ADHD. The practice, akin to meditation, has shown to reduce attentional blinks and improve focus even after a single session. The text also mentions the potential for this practice to offset age-related cognitive decline. Overall, the author emphasizes the simplicity and potential long-lasting benefits of a 17-minute interoception practice for rewiring attentional circuitry.
+# IDEAS:
 
-# 🔍 How I Discovered IT
-- 
+- 17-minute practice can rewire brain to improve focus
+- Attentional blinks cause us to miss information we're not focused on
+- People with ADHD may experience more attentional blinks
+- Open monitoring/panoramic vision can help detect more information
+- This practice works quickly and has lasting effects
 
-# 🧠 Thoughts
-- 
+# INSIGHTS:
 
-## What I Liked About IT
-- 
+- Improving focus is not just about trying harder, but training attentional circuits
+- Distraction and inattention may stem from over-focusing on certain elements
+- Simple practices can have profound impacts on cognitive abilities
+- Harnessing the brain's flexibility can offset age-related cognitive decline
 
-## What I Didn't Like About it
-- 
+# QUOTES:
 
-# ✍️ The Video in 3 Sentences
+- "if ever there was a tool that stood to rewire our attentional circuitry in a powerful way this seems to be it"
+- "these circuits that underlie focus on our ability to attend and our ability to eliminate distraction they aren't just failing to focus"
+- "the ability to engage in panoramic Vision to dilate our gaze the so-called open monitoring that allows the brain to function in a way that it can detect more information faster"
 
-A 17-minute interoception practice is introduced as a powerful tool to rewire attentional circuitry, enhancing focus permanently. The practice involves consciously dilating one's gaze into panoramic vision and focusing on internal sensations, benefiting both children and adults, with potential implications for individuals with ADHD and age-related cognitive decline. The simplicity and immediate effectiveness of the 17-minute interoception make it a worthwhile tool for everyone, promising significant and lasting improvements in attention and cognitive function.
+# HABITS:
 
-# ✍️ My Top 3 Quotes
+- Spend 17 minutes daily focusing on breathing and internal state
+- Practice consciously dilating and contracting visual field
+- Engage in open monitoring to broaden attention
 
-# 🎨 Impressions
+# FACTS:
 
-# ☘️ How the Video Changed Me
+- Attentional blinks increase with age and in those with ADHD
+- Panoramic vision has higher frame rate for processing information
+- Single 17-minute session can have lasting effects on attention
 
-# 📒 Summary + Notes
-  
+# REFERENCES:
 
+- Vipassana meditation
+- Open gaze visual analysis
 
-# 🥰 Who Would Like it ?
-- 
+# RECOMMENDATIONS:
 
-# 📚Related Videos
+- Try 17-minute practice of focusing on breathing and internal state
+- Experiment with consciously dilating and contracting visual field
+- Explore open monitoring techniques to broaden attention

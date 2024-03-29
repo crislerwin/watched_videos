@@ -34,41 +34,9 @@ youtube_url: https://youtu.be/FkTiObe7gMQ
 template-type: YouTube
 template-version: "1.0"
 created: 2024-02-29T20:24
-updated: 2024-02-29T20:24
+updated: 2024-03-29T19:05
 ---
 
 ![[1709249084658.jpg]]
 
 <iframe title="Adeus Programação. «Uma Nova Era Surge»" src="https://www.youtube.com/embed/FkTiObe7gMQ?feature=oembed" height="113" width="200" style="aspect-ratio: 1.76991 / 1; width: 100%; height: 100%;" allowfullscreen="" allow="fullscreen"></iframe>
-
-
-# 🌍 What It's About
-- 
-
-# 🔍 How I Discovered IT
-- 
-
-# 🧠 Thoughts
-- 
-
-## What I Liked About IT
-- 
-
-## What I Didn't Like About it
-- 
-
-# ✍️ The Video in 3 Sentences
-
-# ✍️ My Top 3 Quotes
-
-# 🎨 Impressions
-
-# ☘️ How the Video Changed Me
-
-# 📒 Summary + Notes
-
-# 🥰 Who Would Like it ?
-- 
-
-# 📚Related Videos
--  
